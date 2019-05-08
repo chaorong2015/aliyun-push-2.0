@@ -1,14 +1,6 @@
-## 安装
+##说明
 
-### Node.js 安装
-
-```sh
-npm install aliyun-sdk
-```
-
-### 浏览器端安装
-
-https://github.com/aliyun-UED/aliyun-sdk-js/blob/master/browser.md
+### 因为官网json没有及时更新，这里只是拷贝下来源码修改apis push json
 
 ## 使用方法及代码示例
 

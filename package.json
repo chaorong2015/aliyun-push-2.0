@@ -1,12 +1,10 @@
 {
   "name": "aliyun-sdk",
-  "description": "Aliyun SDK for JavaScript",
+  "description": "Aliyun SDK for JavaScript 2.0",
   "version": "1.12.0",
   "author": {
-    "name": "chylvina",
-    "email": "chylvina@gmail.com"
   },
-  "homepage": "https://github.com/aliyun-UED/aliyun-sdk-js.git",
+  "homepage": "https://github.com:chaorong2015/aliyun-push-2.0.git",
   "contributors": [],
   "devDependencies": {
     "coffee-script": "1.6.3",
@@ -49,10 +47,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:aliyun-UED/aliyun-sdk-js.git"
+    "url": "git@github.com:chaorong2015/aliyun-push-2.0.git"
   },
   "bugs": {
-    "url": "https://github.com/aliyun-UED/aliyun-sdk-js/issues",
+    "url": "",
     "mail": ""
   },
   "keywords": [],
